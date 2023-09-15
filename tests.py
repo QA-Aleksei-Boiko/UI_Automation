@@ -36,4 +36,6 @@ log_out_button = driver.find_element(By.CSS_SELECTOR, 'body > ssp-app-root > app
                                                       'div.right-block > div.logout-link')
 log_out_button.click()
 
-driver.close()
+#driver.close()
+
+# test edit comit
